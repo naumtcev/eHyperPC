@@ -1,0 +1,40 @@
+{
+  "presentations": [
+    {
+      "title": "PLAY",
+      "description": "Начало Ваших Побед",
+      "imageUrl": "https://hyperpc.ru/images/main-test/series/play-desktop.jpg",
+      "href": "#"
+    },
+    {
+      "title": "LUMEN",
+      "description": "Игровой. Мощный. Премиальный",
+      "imageUrl": "https://hyperpc.ru/images/main-test/series/lumen-desktop.jpg",
+      "href": "#"
+    },
+    {
+      "title": "CONCEPT",
+      "description": "Без сомпромиссов. Для избранных",
+      "imageUrl": "https://hyperpc.ru/images/main-test/series/concept-desktop.jpg",
+      "href": "#"
+    },
+    {
+      "title": "AMPERE",
+      "description": "Рабочая станция. Для профессионалов",
+      "imageUrl": "https://hyperpc.ru/images/main-test/series/ampere-desktop.jpg",
+      "href": "#"
+    },
+    {
+      "title": "Ноутбуки",
+      "description": "Компактные решения больших побед",
+      "imageUrl": "https://hyperpc.ru/images/main-test/series/notebooks-desktop.jpg",
+      "href": "#"
+    },
+    {
+      "title": "Аксессуары",
+      "description": "Все для вашего превосходства",
+      "imageUrl": "https://hyperpc.ru/images/main-test/series/accessories-desktop.jpg",
+      "href": "#"
+    }
+  ]
+}

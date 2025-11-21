@@ -1,0 +1,187 @@
+[
+  {
+    "uuid": "bf990614-cb0a-4639-8853-30d8e95c508b",
+    "title": "Palit GeForce RTX 5060 Ti WHITE [16GB, 4608 CUDA]",
+    "alias": "palit-geforce-rtx-5060-ti-white",
+    "price": 71100,
+    "inStock": true,
+    "manufatureCode": "NE7506TU19T1-GB2061M",
+    "description": "Видеокарта Palit GeForce RTX™ 5060 Ti White предлагает классическую эффективность охлаждения в чистом, современном белом дизайне и в компактном 2-слотовом форм-факторе, который идеально подходит для небольших систем. Оснащенный технологией NVIDIA Blackwell, графический процессор предоставляет геймерам и разработчикам революционные возможности искусственного интеллекта.",
+    "image": "https://hyperpc.ru/images/catalog/hardware/video-cards/palit/rtx-5060/geforce-rtx-5060-white/palit-geforce-rtx-5060-white.jpg",
+    "properties": [
+      {
+        "title": "Общие характеристики",
+        "list": [
+          { "title": "Тип видеокарты", "value": "GeForce" },
+          {
+            "title": "Графический процессор",
+            "value": "GeForce RTX 5060 Ti"
+          },
+          { "title": "Интерфейс", "value": "PCI-E 16x 5.0" },
+          { "title": "Интерфейс", "value": "5 нм" },
+          { "title": "Количество поддерживаемых мониторов", "value": 4 },
+          { "title": "Максимальное разрешение", "value": "7680x4320" }
+        ]
+      },
+      {
+        "title": "Технические характеристики",
+        "list": [
+          { "title": "Частота графического процессора", "value": "2407 МГц" },
+          { "title": "Турбочастота", "value": "2572 МГц" },
+          { "title": "Объем видеопамяти", "value": "16 ГБ" },
+          { "title": "Тип видеопамяти", "value": "GDDR7" },
+          { "title": "Частота видеопамяти", "value": "28000 МГц" },
+          { "title": "Разрядность шины видеопамяти", "value": "128 бит" }
+        ]
+      }
+    ]
+  },
+  {
+    "uuid": "277048cb-7976-4dff-af5f-fdf940eb8d86",
+    "title": "Palit GeForce RTX 5070 INFINITY 3 [12GB, 6144 CUDA]",
+    "alias": "palit-geforce-rtx-5060-ti-white",
+    "price": 82100,
+    "inStock": true,
+    "manufatureCode": "NE7506TU19T1-GB2061M",
+    "description": "Видеокарта Palit GeForce RTX™ 5060 Ti White предлагает классическую эффективность охлаждения в чистом, современном белом дизайне и в компактном 2-слотовом форм-факторе, который идеально подходит для небольших систем. Оснащенный технологией NVIDIA Blackwell, графический процессор предоставляет геймерам и разработчикам революционные возможности искусственного интеллекта.",
+    "image": "https://hyperpc.ru/images/catalog/hardware/video-cards/palit/rtx-5070-infinity/palit-geforce-rtx-5070-infinity-3.jpg",
+    "properties": [
+      {
+        "title": "Общие характеристики",
+        "list": [
+          { "title": "Тип видеокарты", "value": "GeForce" },
+          {
+            "title": "Графический процессор",
+            "value": "GeForce RTX 5060 Ti"
+          },
+          { "title": "Интерфейс", "value": "PCI-E 16x 5.0" },
+          { "title": "Интерфейс", "value": "5 нм" },
+          { "title": "Количество поддерживаемых мониторов", "value": 4 },
+          { "title": "Максимальное разрешение", "value": "7680x4320" }
+        ]
+      },
+      {
+        "title": "Технические характеристики",
+        "list": [
+          { "title": "Частота графического процессора", "value": "2407 МГц" },
+          { "title": "Турбочастота", "value": "2572 МГц" },
+          { "title": "Объем видеопамяти", "value": "16 ГБ" },
+          { "title": "Тип видеопамяти", "value": "GDDR7" },
+          { "title": "Частота видеопамяти", "value": "28000 МГц" },
+          { "title": "Разрядность шины видеопамяти", "value": "128 бит" }
+        ]
+      }
+    ]
+  },
+  {
+    "uuid": "277048cb-7976-4dff-af5f-fdf940eb8d86",
+    "title": "ASUS GeForce RTX 5090 ROG Astral [32GB, 21760 CUDA]",
+    "alias": "palit-geforce-rtx-5060-ti-white",
+    "price": 497000,
+    "inStock": true,
+    "manufatureCode": "NE7506TU19T1-GB2061M",
+    "description": "Видеокарта Palit GeForce RTX™ 5060 Ti White предлагает классическую эффективность охлаждения в чистом, современном белом дизайне и в компактном 2-слотовом форм-факторе, который идеально подходит для небольших систем. Оснащенный технологией NVIDIA Blackwell, графический процессор предоставляет геймерам и разработчикам революционные возможности искусственного интеллекта.",
+    "image": "https://hyperpc.ru/images/catalog/hardware/video-cards/asus/rtx-5090/rog-astral-geforce-rtx-5090/rog-astral-geforce-rtx-5090.jpg",
+    "properties": [
+      {
+        "title": "Общие характеристики",
+        "list": [
+          { "title": "Тип видеокарты", "value": "GeForce" },
+          {
+            "title": "Графический процессор",
+            "value": "GeForce RTX 5060 Ti"
+          },
+          { "title": "Интерфейс", "value": "PCI-E 16x 5.0" },
+          { "title": "Интерфейс", "value": "5 нм" },
+          { "title": "Количество поддерживаемых мониторов", "value": 4 },
+          { "title": "Максимальное разрешение", "value": "7680x4320" }
+        ]
+      },
+      {
+        "title": "Технические характеристики",
+        "list": [
+          { "title": "Частота графического процессора", "value": "2407 МГц" },
+          { "title": "Турбочастота", "value": "2572 МГц" },
+          { "title": "Объем видеопамяти", "value": "16 ГБ" },
+          { "title": "Тип видеопамяти", "value": "GDDR7" },
+          { "title": "Частота видеопамяти", "value": "28000 МГц" },
+          { "title": "Разрядность шины видеопамяти", "value": "128 бит" }
+        ]
+      }
+    ]
+  },
+  {
+    "uuid": "822fa51c-a373-4b99-8514-8537a99add24",
+    "title": "ASUS GeForce RTX 5090 ROG Astral White [32GB, 21760 CUDA]",
+    "alias": "palit-geforce-rtx-5060-ti-white",
+    "price": 497000,
+    "inStock": true,
+    "manufatureCode": "NE7506TU19T1-GB2061M",
+    "description": "Видеокарта Palit GeForce RTX™ 5060 Ti White предлагает классическую эффективность охлаждения в чистом, современном белом дизайне и в компактном 2-слотовом форм-факторе, который идеально подходит для небольших систем. Оснащенный технологией NVIDIA Blackwell, графический процессор предоставляет геймерам и разработчикам революционные возможности искусственного интеллекта.",
+    "image": "https://hyperpc.ru/images/catalog/hardware/video-cards/asus/rtx-5090/rog-astral-geforce-rtx-5090/asus-geforce-rtx-5090-rog-astral-white.jpg",
+    "properties": [
+      {
+        "title": "Общие характеристики",
+        "list": [
+          { "title": "Тип видеокарты", "value": "GeForce" },
+          {
+            "title": "Графический процессор",
+            "value": "GeForce RTX 5060 Ti"
+          },
+          { "title": "Интерфейс", "value": "PCI-E 16x 5.0" },
+          { "title": "Интерфейс", "value": "5 нм" },
+          { "title": "Количество поддерживаемых мониторов", "value": 4 },
+          { "title": "Максимальное разрешение", "value": "7680x4320" }
+        ]
+      },
+      {
+        "title": "Технические характеристики",
+        "list": [
+          { "title": "Частота графического процессора", "value": "2407 МГц" },
+          { "title": "Турбочастота", "value": "2572 МГц" },
+          { "title": "Объем видеопамяти", "value": "16 ГБ" },
+          { "title": "Тип видеопамяти", "value": "GDDR7" },
+          { "title": "Частота видеопамяти", "value": "28000 МГц" },
+          { "title": "Разрядность шины видеопамяти", "value": "128 бит" }
+        ]
+      }
+    ]
+  },
+  {
+    "uuid": "68556089-f6a4-4c67-ae45-b4a44d681f02",
+    "title": "NVIDIA RTX A1000 [8GB, 2304 CUDA]",
+    "alias": "palit-geforce-rtx-5060-ti-white",
+    "price": 497000,
+    "inStock": false,
+    "manufatureCode": "NE7506TU19T1-GB2061M",
+    "description": "Видеокарта Palit GeForce RTX™ 5060 Ti White предлагает классическую эффективность охлаждения в чистом, современном белом дизайне и в компактном 2-слотовом форм-факторе, который идеально подходит для небольших систем. Оснащенный технологией NVIDIA Blackwell, графический процессор предоставляет геймерам и разработчикам революционные возможности искусственного интеллекта.",
+    "image": "https://hyperpc.ru/images/catalog/hardware/video-cards/nvidia/a1000/nvidia-rtx-a1000.jpg",
+    "properties": [
+      {
+        "title": "Общие характеристики",
+        "list": [
+          { "title": "Тип видеокарты", "value": "GeForce" },
+          {
+            "title": "Графический процессор",
+            "value": "GeForce RTX 5060 Ti"
+          },
+          { "title": "Интерфейс", "value": "PCI-E 16x 5.0" },
+          { "title": "Интерфейс", "value": "5 нм" },
+          { "title": "Количество поддерживаемых мониторов", "value": 4 },
+          { "title": "Максимальное разрешение", "value": "7680x4320" }
+        ]
+      },
+      {
+        "title": "Технические характеристики",
+        "list": [
+          { "title": "Частота графического процессора", "value": "2407 МГц" },
+          { "title": "Турбочастота", "value": "2572 МГц" },
+          { "title": "Объем видеопамяти", "value": "16 ГБ" },
+          { "title": "Тип видеопамяти", "value": "GDDR7" },
+          { "title": "Частота видеопамяти", "value": "28000 МГц" },
+          { "title": "Разрядность шины видеопамяти", "value": "128 бит" }
+        ]
+      }
+    ]
+  }
+]

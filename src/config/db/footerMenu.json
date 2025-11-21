@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Игровые компьютеры",
+    "href": "/",
+    "list": [
+      {
+        "title": "ВСе модели",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "В наличии",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Конфигуратор",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Подбор",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Аренда",
+        "href": "gaming-pc"
+      }
+    ]
+  },
+  {
+    "title": "Рабочие станции",
+    "href": "/",
+    "list": [
+      {
+        "title": "Все модели",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Конфигуратор",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Подбор",
+        "href": "gaming-pc"
+      }
+    ]
+  },
+  {
+    "title": "Ноутбуки",
+    "href": "/",
+    "list": [
+      {
+        "title": "Все модели",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Игровые",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Бизнес и работа",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Учеба и досуг",
+        "href": "gaming-pc"
+      }
+    ]
+  },
+  {
+    "title": "Серверы",
+    "href": "/",
+    "list": [
+      {
+        "title": "Все модели",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "GPU-серверы",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Машинное обучение",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Искуственный интелект",
+        "href": "gaming-pc"
+      }
+    ]
+  },
+  {
+    "title": "Аксессуары",
+    "href": "/",
+    "list": [
+      {
+        "title": "Все аксессуары",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Мониторы",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Клавиатуры",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Мышки",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Наушники",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Коврики для мышки",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Микрофоны",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Кресла",
+        "href": "gaming-pc"
+      },
+      {
+        "title": "Столы",
+        "href": "gaming-pc"
+      }
+    ]
+  }
+]
